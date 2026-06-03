@@ -1,0 +1,16 @@
+name="rudransh"
+age=11
+is_student= True
+weight= 39.41
+
+print ("name is",name)
+print ("data type of name is", type (name))
+
+print ("age is",age)
+print ("data type of age is", type (age))
+
+print ("is_student",is_student)
+print ("data type of is_student is", type (is_student))
+
+print ("wieght is", weight)
+print ("data type of weight is", type (weight))
